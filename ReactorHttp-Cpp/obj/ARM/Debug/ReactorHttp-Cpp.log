@@ -1,0 +1,24 @@
+﻿生成启动时间为 2023/4/3 10:20:25。
+     1>项目“D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\ReactorHttp-Cpp.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\obj\ARM\Debug\ReactorHttp-Cpp.tlog\unsuccessfulbuild”执行 Touch 任务。
+       _ValidateSources:
+         Validating sources
+       _CopySources:
+         Copying sources remotely to '192.168.79.129'
+         Skipping copying files as they are up to date.
+       _ValidateValidArchitecture:
+         Validating architecture
+     1>D:\download_software\Visual Studio 2017\Visual Studio IDE\Common7\IDE\VC\VCTargets\Application Type\Linux\1.0\Linux.targets(151,5): error : Current project architecture 'ARM' is incompatible with the remote system architecture 'x64' ('x64'). Please switch the project architecture to 'x64' in Configuration Manager.
+     1>已完成生成项目“D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\ReactorHttp-Cpp.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+       “D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\ReactorHttp-Cpp.vcxproj”(Build 目标) (1) ->
+       (_ValidateValidArchitecture 目标) -> 
+         D:\download_software\Visual Studio 2017\Visual Studio IDE\Common7\IDE\VC\VCTargets\Application Type\Linux\1.0\Linux.targets(151,5): error : Current project architecture 'ARM' is incompatible with the remote system architecture 'x64' ('x64'). Please switch the project architecture to 'x64' in Configuration Manager.
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.10

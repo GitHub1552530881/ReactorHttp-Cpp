@@ -1,0 +1,241 @@
+﻿生成启动时间为 2023/4/3 10:22:19。
+     1>项目“D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\ReactorHttp-Cpp.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\obj\x64\Debug\ReactorHttp-Cpp.tlog\ReactorHttp-Cpp.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\obj\x64\Debug\ReactorHttp-Cpp.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       _ValidateSources:
+         Validating sources
+       _CopySources:
+         Copying sources remotely to '192.168.79.129'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp' to '/home/shenchao/projects/ReactorHttp-Cpp/Buffer.cpp'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Channel.cpp' to '/home/shenchao/projects/ReactorHttp-Cpp/Channel.cpp'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Dispatcher.cpp' to '/home/shenchao/projects/ReactorHttp-Cpp/Dispatcher.cpp'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\EpollDispatcher.cpp' to '/home/shenchao/projects/ReactorHttp-Cpp/EpollDispatcher.cpp'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\EventLoop.cpp' to '/home/shenchao/projects/ReactorHttp-Cpp/EventLoop.cpp'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp' to '/home/shenchao/projects/ReactorHttp-Cpp/HttpRequest.cpp'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Httpresponse.cpp' to '/home/shenchao/projects/ReactorHttp-Cpp/Httpresponse.cpp'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\main.cpp' to '/home/shenchao/projects/ReactorHttp-Cpp/main.cpp'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\PollDispatcher.cpp' to '/home/shenchao/projects/ReactorHttp-Cpp/PollDispatcher.cpp'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\SelectDispatcher.cpp' to '/home/shenchao/projects/ReactorHttp-Cpp/SelectDispatcher.cpp'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\TcpConnection.cpp' to '/home/shenchao/projects/ReactorHttp-Cpp/TcpConnection.cpp'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\TcpServer.cpp' to '/home/shenchao/projects/ReactorHttp-Cpp/TcpServer.cpp'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\ThreadPool.cpp' to '/home/shenchao/projects/ReactorHttp-Cpp/ThreadPool.cpp'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\WorkerThread.cpp' to '/home/shenchao/projects/ReactorHttp-Cpp/WorkerThread.cpp'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.h' to '/home/shenchao/projects/ReactorHttp-Cpp/Buffer.h'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Channel.h' to '/home/shenchao/projects/ReactorHttp-Cpp/Channel.h'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Dispatcher.h' to '/home/shenchao/projects/ReactorHttp-Cpp/Dispatcher.h'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\EpollDispatcher.h' to '/home/shenchao/projects/ReactorHttp-Cpp/EpollDispatcher.h'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\EventLoop.h' to '/home/shenchao/projects/ReactorHttp-Cpp/EventLoop.h'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.h' to '/home/shenchao/projects/ReactorHttp-Cpp/HttpRequest.h'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpResponse.h' to '/home/shenchao/projects/ReactorHttp-Cpp/HttpResponse.h'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Log.h' to '/home/shenchao/projects/ReactorHttp-Cpp/Log.h'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\PollDispatcher.h' to '/home/shenchao/projects/ReactorHttp-Cpp/PollDispatcher.h'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\SelectDispatcher.h' to '/home/shenchao/projects/ReactorHttp-Cpp/SelectDispatcher.h'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\TcpConnection.h' to '/home/shenchao/projects/ReactorHttp-Cpp/TcpConnection.h'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\TcpServer.h' to '/home/shenchao/projects/ReactorHttp-Cpp/TcpServer.h'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\ThreadPool.h' to '/home/shenchao/projects/ReactorHttp-Cpp/ThreadPool.h'
+         Copying file 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\WorkerThread.h' to '/home/shenchao/projects/ReactorHttp-Cpp/WorkerThread.h'
+       _ValidateValidArchitecture:
+         Validating architecture
+         Current project architecture 'x64' is compatible with the remote system architecture 'x64' ('x64').
+       ClCompile:
+         Starting remote build
+         Compiling sources:
+         Invoking 'g++'
+         g++ -c -x c++ "/home/shenchao/projects/ReactorHttp-Cpp/Buffer.cpp" -g2 -gdwarf-2 -o "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/Buffer.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         Buffer.cpp
+     1>D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(75,22): warning : conversion from ‘size_t’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(75,22): warning :    75 |     int size = strlen(data);
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(75,22): warning :       |                ~~~~~~^~~~~~
+     1>D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(97,23): warning : conversion from ‘ssize_t’ {aka ‘long int’} to ‘int’ may change value [-Wconversion]
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(97,23): warning :    97 |     int result = readv(fd, vec, 2);
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(97,23): warning :       |                  ~~~~~^~~~~~~~~~~~
+     1>D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(127,25): warning : conversion from ‘ssize_t’ {aka ‘long int’} to ‘int’ may change value [-Wconversion]
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(127,25): warning :   127 |         int count = send(socket, m_data + m_readPos, readable, MSG_NOSIGNAL);
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(127,25): warning :       |                     ~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         Done compiling '/home/shenchao/projects/ReactorHttp-Cpp/Buffer.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ "/home/shenchao/projects/ReactorHttp-Cpp/Channel.cpp" -g2 -gdwarf-2 -o "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/Channel.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         Channel.cpp
+         /home/shenchao/projects/ReactorHttp-Cpp/Buffer.cpp: In member function ‘int Buffer::appendString(const char*)’:
+         /home/shenchao/projects/ReactorHttp-Cpp/Buffer.cpp:75:22: warning: conversion from ‘size_t’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
+            75 |     int size = strlen(data);
+               |                ~~~~~~^~~~~~
+         /home/shenchao/projects/ReactorHttp-Cpp/Buffer.cpp: In member function ‘int Buffer::socketRead(int)’:
+         /home/shenchao/projects/ReactorHttp-Cpp/Buffer.cpp:97:23: warning: conversion from ‘ssize_t’ {aka ‘long int’} to ‘int’ may change value [-Wconversion]
+            97 |     int result = readv(fd, vec, 2);
+               |                  ~~~~~^~~~~~~~~~~~
+         /home/shenchao/projects/ReactorHttp-Cpp/Buffer.cpp: In member function ‘int Buffer::sendData(int)’:
+         /home/shenchao/projects/ReactorHttp-Cpp/Buffer.cpp:127:25: warning: conversion from ‘ssize_t’ {aka ‘long int’} to ‘int’ may change value [-Wconversion]
+           127 |         int count = send(socket, m_data + m_readPos, readable, MSG_NOSIGNAL);
+               |                     ~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         
+         Done compiling '/home/shenchao/projects/ReactorHttp-Cpp/Channel.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ "/home/shenchao/projects/ReactorHttp-Cpp/Dispatcher.cpp" -g2 -gdwarf-2 -o "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/Dispatcher.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         Dispatcher.cpp
+         Done compiling '/home/shenchao/projects/ReactorHttp-Cpp/Dispatcher.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ "/home/shenchao/projects/ReactorHttp-Cpp/EpollDispatcher.cpp" -g2 -gdwarf-2 -o "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/EpollDispatcher.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         EpollDispatcher.cpp
+         Done compiling '/home/shenchao/projects/ReactorHttp-Cpp/EpollDispatcher.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ "/home/shenchao/projects/ReactorHttp-Cpp/EventLoop.cpp" -g2 -gdwarf-2 -o "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/EventLoop.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         EventLoop.cpp
+         Done compiling '/home/shenchao/projects/ReactorHttp-Cpp/EventLoop.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ "/home/shenchao/projects/ReactorHttp-Cpp/HttpRequest.cpp" -g2 -gdwarf-2 -o "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/HttpRequest.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         HttpRequest.cpp
+     1>D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(23,24): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(23,24): warning :    23 |     int length = space - start;
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(23,24): warning :       |                  ~~~~~~^~~~~~~
+     1>D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(84,24): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(84,24): warning :    84 |     int lineSize = end - start;
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(84,24): warning :       |                    ~~~~^~~~~~~
+     1>D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(109,28): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(109,28): warning :   109 |         int lineSize = end - start;
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(109,28): warning :       |                        ~~~~^~~~~~~
+     1>D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(114,33): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(114,33): warning :   114 |             int keyLen = middle - start;
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(114,33): warning :       |                          ~~~~~~~^~~~~~~
+     1>D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(115,41): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(115,41): warning :   115 |             int valueLen = end - middle - 2;
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(115,41): warning :       |                            ~~~~~~~~~~~~~^~~
+     1>D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(354,23): warning : conversion from ‘ssize_t’ {aka ‘long int’} to ‘int’ may change value [-Wconversion]
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(354,23): warning :   354 |         int len = read(fd, buf, sizeof buf);
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(354,23): warning :       |                   ~~~~^~~~~~~~~~~~~~~~~~~~~
+         Done compiling '/home/shenchao/projects/ReactorHttp-Cpp/HttpRequest.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ "/home/shenchao/projects/ReactorHttp-Cpp/Httpresponse.cpp" -g2 -gdwarf-2 -o "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/Httpresponse.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         Httpresponse.cpp
+         Done compiling '/home/shenchao/projects/ReactorHttp-Cpp/Httpresponse.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ "/home/shenchao/projects/ReactorHttp-Cpp/main.cpp" -g2 -gdwarf-2 -o "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/main.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         main.cpp
+         Done compiling '/home/shenchao/projects/ReactorHttp-Cpp/main.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ "/home/shenchao/projects/ReactorHttp-Cpp/PollDispatcher.cpp" -g2 -gdwarf-2 -o "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/PollDispatcher.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         PollDispatcher.cpp
+     1>D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\PollDispatcher.cpp(41,31): warning : conversion from ‘int’ to ‘short int’ may change value [-Wconversion]
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\PollDispatcher.cpp(41,31): warning :    41 |             m_fds[i].events = events;
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\PollDispatcher.cpp(41,31): warning :       |                               ^~~~~~
+     1>D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\PollDispatcher.cpp(92,31): warning : conversion from ‘int’ to ‘short int’ may change value [-Wconversion]
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\PollDispatcher.cpp(92,31): warning :    92 |             m_fds[i].events = events;
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\PollDispatcher.cpp(92,31): warning :       |                               ^~~~~~
+         Done compiling '/home/shenchao/projects/ReactorHttp-Cpp/PollDispatcher.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ "/home/shenchao/projects/ReactorHttp-Cpp/SelectDispatcher.cpp" -g2 -gdwarf-2 -o "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/SelectDispatcher.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         SelectDispatcher.cpp
+         Done compiling '/home/shenchao/projects/ReactorHttp-Cpp/SelectDispatcher.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ "/home/shenchao/projects/ReactorHttp-Cpp/TcpConnection.cpp" -g2 -gdwarf-2 -o "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/TcpConnection.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         TcpConnection.cpp
+         Done compiling '/home/shenchao/projects/ReactorHttp-Cpp/TcpConnection.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ "/home/shenchao/projects/ReactorHttp-Cpp/TcpServer.cpp" -g2 -gdwarf-2 -o "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/TcpServer.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         TcpServer.cpp
+         Done compiling '/home/shenchao/projects/ReactorHttp-Cpp/TcpServer.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ "/home/shenchao/projects/ReactorHttp-Cpp/ThreadPool.cpp" -g2 -gdwarf-2 -o "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/ThreadPool.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         ThreadPool.cpp
+     1>D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\ThreadPool.cpp(53,17): warning : operation on ‘((ThreadPool*)this)->ThreadPool::m_index’ may be undefined [-Wsequence-point]
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\ThreadPool.cpp(53,17): warning :    53 |         m_index = ++m_index % m_threadNum;
+D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\ThreadPool.cpp(53,17): warning :       |         ~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+         Done compiling '/home/shenchao/projects/ReactorHttp-Cpp/ThreadPool.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ "/home/shenchao/projects/ReactorHttp-Cpp/WorkerThread.cpp" -g2 -gdwarf-2 -o "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/WorkerThread.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         WorkerThread.cpp
+         Done compiling '/home/shenchao/projects/ReactorHttp-Cpp/WorkerThread.cpp'
+         /home/shenchao/projects/ReactorHttp-Cpp/HttpRequest.cpp: In member function ‘char* HttpRequest::splitRequestLine(const char*, const char*, const char*, std::function<void(std::basic_string<char>)>)’:
+         /home/shenchao/projects/ReactorHttp-Cpp/HttpRequest.cpp:23:24: warning: conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+            23 |     int length = space - start;
+               |                  ~~~~~~^~~~~~~
+         /home/shenchao/projects/ReactorHttp-Cpp/HttpRequest.cpp: In member function ‘bool HttpRequest::parseRequestLine(Buffer*)’:
+         /home/shenchao/projects/ReactorHttp-Cpp/HttpRequest.cpp:84:24: warning: conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+            84 |     int lineSize = end - start;
+               |                    ~~~~^~~~~~~
+         /home/shenchao/projects/ReactorHttp-Cpp/HttpRequest.cpp: In member function ‘bool HttpRequest::parseRequestHeader(Buffer*)’:
+         /home/shenchao/projects/ReactorHttp-Cpp/HttpRequest.cpp:109:28: warning: conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+           109 |         int lineSize = end - start;
+               |                        ~~~~^~~~~~~
+         /home/shenchao/projects/ReactorHttp-Cpp/HttpRequest.cpp:114:33: warning: conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+           114 |             int keyLen = middle - start;
+               |                          ~~~~~~~^~~~~~~
+         /home/shenchao/projects/ReactorHttp-Cpp/HttpRequest.cpp:115:41: warning: conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+           115 |             int valueLen = end - middle - 2;
+               |                            ~~~~~~~~~~~~~^~~
+         /home/shenchao/projects/ReactorHttp-Cpp/HttpRequest.cpp: In static member function ‘static void HttpRequest::sendFile(std::string, Buffer*, int)’:
+         /home/shenchao/projects/ReactorHttp-Cpp/HttpRequest.cpp:354:23: warning: conversion from ‘ssize_t’ {aka ‘long int’} to ‘int’ may change value [-Wconversion]
+           354 |         int len = read(fd, buf, sizeof buf);
+               |                   ~~~~^~~~~~~~~~~~~~~~~~~~~
+         /home/shenchao/projects/ReactorHttp-Cpp/PollDispatcher.cpp: In member function ‘virtual int PollDispatcher::add()’:
+         /home/shenchao/projects/ReactorHttp-Cpp/PollDispatcher.cpp:41:31: warning: conversion from ‘int’ to ‘short int’ may change value [-Wconversion]
+            41 |             m_fds[i].events = events;
+               |                               ^~~~~~
+         /home/shenchao/projects/ReactorHttp-Cpp/PollDispatcher.cpp: In member function ‘virtual int PollDispatcher::modify()’:
+         /home/shenchao/projects/ReactorHttp-Cpp/PollDispatcher.cpp:92:31: warning: conversion from ‘int’ to ‘short int’ may change value [-Wconversion]
+            92 |             m_fds[i].events = events;
+               |                               ^~~~~~
+         /home/shenchao/projects/ReactorHttp-Cpp/ThreadPool.cpp: In member function ‘EventLoop* ThreadPool::takeWorkerEventLoop()’:
+         /home/shenchao/projects/ReactorHttp-Cpp/ThreadPool.cpp:53:17: warning: operation on ‘((ThreadPool*)this)->ThreadPool::m_index’ may be undefined [-Wsequence-point]
+            53 |         m_index = ++m_index % m_threadNum;
+               |         ~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+         
+       Link:
+         Linking objects
+         Invoking 'ld'
+         g++ -o "/home/shenchao/projects/ReactorHttp-Cpp/bin/x64/Debug/ReactorHttp-Cpp.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/Buffer.o" "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/Channel.o" "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/Dispatcher.o" "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/EpollDispatcher.o" "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/EventLoop.o" "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/HttpRequest.o" "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/Httpresponse.o" "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/main.o" "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/PollDispatcher.o" "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/SelectDispatcher.o" "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/TcpConnection.o" "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/TcpServer.o" "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/ThreadPool.o" "/home/shenchao/projects/ReactorHttp-Cpp/obj/x64/Debug/WorkerThread.o" -lpthread
+         Done linking, output file name: '/home/shenchao/projects/ReactorHttp-Cpp/bin/x64/Debug/ReactorHttp-Cpp.out'
+         Copying file '/home/shenchao/projects/ReactorHttp-Cpp/bin/x64/Debug/ReactorHttp-Cpp.out' to 'D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\bin\x64\Debug\ReactorHttp-Cpp.out'
+         ReactorHttp-Cpp.vcxproj -> D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\bin\x64\Debug\ReactorHttp-Cpp.out
+       FinalizeBuildStatus:
+         正在删除文件“D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\obj\x64\Debug\ReactorHttp-Cpp.tlog\unsuccessfulbuild”。
+         正在对“D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\obj\x64\Debug\ReactorHttp-Cpp.tlog\ReactorHttp-Cpp.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\ReactorHttp-Cpp.vcxproj”(Rebuild 个目标)的操作。
+
+已成功生成。
+
+       “D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\ReactorHttp-Cpp.vcxproj”(Rebuild 目标) (1) ->
+       (ClCompile 目标) -> 
+         D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(75,22): warning : conversion from ‘size_t’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(75,22): warning :    75 |     int size = strlen(data);
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(75,22): warning :       |                ~~~~~~^~~~~~
+         D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(97,23): warning : conversion from ‘ssize_t’ {aka ‘long int’} to ‘int’ may change value [-Wconversion]
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(97,23): warning :    97 |     int result = readv(fd, vec, 2);
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(97,23): warning :       |                  ~~~~~^~~~~~~~~~~~
+         D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(127,25): warning : conversion from ‘ssize_t’ {aka ‘long int’} to ‘int’ may change value [-Wconversion]
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(127,25): warning :   127 |         int count = send(socket, m_data + m_readPos, readable, MSG_NOSIGNAL);
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\Buffer.cpp(127,25): warning :       |                     ~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(23,24): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(23,24): warning :    23 |     int length = space - start;
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(23,24): warning :       |                  ~~~~~~^~~~~~~
+         D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(84,24): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(84,24): warning :    84 |     int lineSize = end - start;
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(84,24): warning :       |                    ~~~~^~~~~~~
+         D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(109,28): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(109,28): warning :   109 |         int lineSize = end - start;
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(109,28): warning :       |                        ~~~~^~~~~~~
+         D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(114,33): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(114,33): warning :   114 |             int keyLen = middle - start;
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(114,33): warning :       |                          ~~~~~~~^~~~~~~
+         D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(115,41): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(115,41): warning :   115 |             int valueLen = end - middle - 2;
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(115,41): warning :       |                            ~~~~~~~~~~~~~^~~
+         D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(354,23): warning : conversion from ‘ssize_t’ {aka ‘long int’} to ‘int’ may change value [-Wconversion]
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(354,23): warning :   354 |         int len = read(fd, buf, sizeof buf);
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\HttpRequest.cpp(354,23): warning :       |                   ~~~~^~~~~~~~~~~~~~~~~~~~~
+         D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\PollDispatcher.cpp(41,31): warning : conversion from ‘int’ to ‘short int’ may change value [-Wconversion]
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\PollDispatcher.cpp(41,31): warning :    41 |             m_fds[i].events = events;
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\PollDispatcher.cpp(41,31): warning :       |                               ^~~~~~
+         D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\PollDispatcher.cpp(92,31): warning : conversion from ‘int’ to ‘short int’ may change value [-Wconversion]
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\PollDispatcher.cpp(92,31): warning :    92 |             m_fds[i].events = events;
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\PollDispatcher.cpp(92,31): warning :       |                               ^~~~~~
+         D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\ThreadPool.cpp(53,17): warning : operation on ‘((ThreadPool*)this)->ThreadPool::m_index’ may be undefined [-Wsequence-point]
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\ThreadPool.cpp(53,17): warning :    53 |         m_index = ++m_index % m_threadNum;
+       D:\code\VS2017_code\linuxcode\ReactorHttp-Cpp\ReactorHttp-Cpp\ThreadPool.cpp(53,17): warning :       |         ~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+
+    12 个警告
+    0 个错误
+
+已用时间 00:00:16.36
